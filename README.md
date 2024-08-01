@@ -15,4 +15,4 @@ The algorithm uses the Fernet library to encrypt and decrypt the different types
 •	Performance: While Fernet is generally fast and efficient, it may not be the best choice for high-performance applications that require short-term encryption and decryption.
 •	No perfect forward security: Like other shared encryption algorithms, Fernet does not offer perfect forward secrecy. This means that once a key is compromised, all data encrypted with that key will also be compromised.
 
-# For details check out the .docx file
+# For more details, check out the .docx file
